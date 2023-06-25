@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MaterializedViews.API.props" />
+</Project>
